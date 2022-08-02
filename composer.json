@@ -24,7 +24,7 @@
         "kint-php/kint": "@stable",
         "mikey179/vfsstream": "^1.6"
     },
-    "replaces": {
+    "replace": {
         "youwe/coding-standard-phpstorm": "*"
     },
     "autoload": {

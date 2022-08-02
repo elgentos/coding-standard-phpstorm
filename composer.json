@@ -24,6 +24,9 @@
         "kint-php/kint": "@stable",
         "mikey179/vfsstream": "^1.6"
     },
+    "replaces": {
+        "youwe/coding-standard-phpstorm": "*"
+    }
     "autoload": {
         "psr-4": {
             "Youwe\\CodingStandard\\PhpStorm\\": "src"

@@ -26,7 +26,7 @@
     },
     "replaces": {
         "youwe/coding-standard-phpstorm": "*"
-    }
+    },
     "autoload": {
         "psr-4": {
             "Youwe\\CodingStandard\\PhpStorm\\": "src"

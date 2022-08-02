@@ -1,6 +1,6 @@
 {
-    "name": "youwe/coding-standard-phpstorm",
-    "description": "Youwe PHP Coding Standard PHPStorm integration",
+    "name": "elgentos/coding-standard-phpstorm",
+    "description": "Elgentos PHP Coding Standard PHPStorm integration",
     "type": "composer-plugin",
     "license": "MIT",
     "prefer-stable": true,
@@ -9,6 +9,10 @@
         {
             "name": "Youwe B.V.",
             "email": "info@youweagency.com"
+        },
+        {
+            "name": "Elgentos B.V.",
+            "email": "info@elgentos.nl"
         }
     ],
     "require": {

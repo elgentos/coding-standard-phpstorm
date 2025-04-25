@@ -30,7 +30,7 @@ class InstallerPlugin implements PluginInterface, EventSubscriberInterface
      *
      * @param ConfigPatcherInterface $patcher
      */
-    public function __construct(ConfigPatcherInterface $patcher = null)
+    public function __construct(?ConfigPatcherInterface $patcher = null)
     {
         $this->patcher = $patcher !== null
             ? $patcher
